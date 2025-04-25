@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sameera Dronavalli
+-                       👋 Hi, I’m Sameera Dronavalli
 - 👨‍💻 Aspiring Frontend Developer | React.js & Redux Enthusiast.
 - 👀 Passionate about teaming up on frontend web development and learning-focused projects.
 - 🌱 Learning and growing in frontend development.
