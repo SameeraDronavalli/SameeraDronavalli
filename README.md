@@ -2,7 +2,7 @@
                       👨‍💻 Aspiring Frontend Developer | React.js & Redux Enthusiast.
                       👀 Passionate about teaming up on frontend web development and learning-focused projects.
                       🌱 Learning and growing in frontend development.
-                      📫 Reach me sameeradronavalli99@gmail.com
+                      -📫 Reach me sameeradronavalli99@gmail.com
 
 
 <!---
